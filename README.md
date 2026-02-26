@@ -1,4 +1,4 @@
-# 🥭 AutoGen × Spraay: Multi-Agent Batch Payments
+# 💧 AutoGen × Spraay: Multi-Agent Batch Payments
 
 A multi-agent system built with [Microsoft AutoGen](https://github.com/microsoft/autogen) that enables AI agents to execute batch cryptocurrency payments using [Spraay](https://spraay.app) — a multi-chain batch payment protocol.
 
